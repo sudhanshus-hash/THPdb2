@@ -10,6 +10,10 @@ Jain, S., Gupta, S., Patiyal, S., & Raghava, G. P. S. (2024).
 **THPdb2: compilation of FDA approved therapeutic peptides and proteins.** *Drug Discovery Today*, 29(7), 104047. 
 [https://doi.org/10.1016/j.drudis.2024.104047](https://doi.org/10.1016/j.drudis.2024.104047)
 
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20073408
+
+
+
 ## About the Database
 
 THPdb2 was developed to provide an integrated resource for the rapidly growing field of protein therapeutics. In the seven years since the inception of the original THPdb, the number of FDA-approved protein drugs has increased significantly. THPdb2 contains three times more information than its predecessor, helping researchers annotate and understand the therapeutic potential of proteins.
